@@ -9,5 +9,4 @@ I am Alvi, a Computer Engineering student from Imperial College London, and welc
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvi-codes&theme=gruvbox_light_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alvi-codes)](https://github.com/alvi-codes/github-readme-stats)
 
