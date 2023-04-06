@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Alvi, a Computer Engineering student from Imperial College London, and here's my GitHub profile!
+I am Alvi, a Computer Engineering student from Imperial College London, and thanks for visitng my GitHub account!
 
 ## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=alvi-codes&theme=gruvbox_light=false&include_all_commits=false&count_private=true&disable_animations=false)<br/>
