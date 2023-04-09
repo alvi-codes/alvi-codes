@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*Hi, I'm Alvi, an Electronic and Computer Engineering student who's passionate about all things related to computer technologies and digital electronics. With a mindset of constant learning and development, I enjoy exploring the integration of hardware and software to build innovative solutions that solve real-world problems.*
+*Hi, I'm Alvi, an Electronic and Computer Engineering student who's passionate about all things related to computer technologies and digital electronics. With a mindset of constant learning and development, I enjoy exploring the integration of hardware and software to build projects to suffice my keen on learning by practice.*
 
 ## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=alvi-codes&theme=gruvbox_light=false&include_all_commits=false&count_private=true&disable_animations=false)<br/>
