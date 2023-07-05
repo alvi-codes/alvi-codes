@@ -4,4 +4,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alvi-codes&theme=gotham&hide=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvi-codes&theme=gruvbox_light_border=true&include_all_commits=true&count_private=false&layout=compact&exclude_repo=FlappyGA&langs_count=10)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvi-codes&theme=gruvbox_light_border=true&include_all_commits=true&count_private=false&layout=compact&exclude_repo=FlappyGA&exclude_repo=MazeMaster&langs_count=10)<br/>
