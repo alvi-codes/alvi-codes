@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*Hi, I'm Alvi, an Electronic and Computer Engineering student who's passionate about all things related to computer technologies and digital electronics. With a mindset of constant learning and development, I enjoy exploring the integration of hardware and software to build systems that solve real-world problems.*
+*I'm Alvi, an Electronic and Computer Engineering graduate who's passionate about all things related to computer technologies and digital electronics. With a mindset of constant learning and development, I enjoy exploring the integration of hardware and software to build systems that solve real-world problems.*
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alvi-codes&theme=gotham&hide=false)<br/>
 
