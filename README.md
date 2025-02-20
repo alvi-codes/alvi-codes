@@ -8,11 +8,11 @@
 
 ### 📌 Featured Repositories  
 
-[![ExecEngine](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=ExecEngine&theme=gotham&border_radius=10)](https://github.com/alvi-codes/ExecEngine)
-[![TrigoCore](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=TrigoCore&theme=gotham&border_radius=10)](https://github.com/alvi-codes/TrigoCore)  
+[![ExecEngine](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=ExecEngine&theme=gotham&border_radius=6)](https://github.com/alvi-codes/ExecEngine)
+[![TrigoCore](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=TrigoCore&theme=gotham&border_radius=6)](https://github.com/alvi-codes/TrigoCore)  
 
-[![RiskyCPU](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=RiskyCPU&theme=gotham&border_radius=10)](https://github.com/alvi-codes/RiskyCPU)
-[![FlappyGA](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=FlappyGA&theme=gotham&border_radius=10)](https://github.com/alvi-codes/FlappyGA)  
+[![RiskyCPU](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=RiskyCPU&theme=gotham&border_radius=6)](https://github.com/alvi-codes/RiskyCPU)
+[![FlappyGA](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=FlappyGA&theme=gotham&border_radius=6)](https://github.com/alvi-codes/FlappyGA)  
 
-[![SkiGuard](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=SkiGuard&theme=gotham&border_radius=10)](https://github.com/alvi-codes/SkiGuard)
-[![MazeMaster](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=MazeMaster&theme=gotham&border_radius=10)](https://github.com/alvi-codes/MazeMaster)  
+[![SkiGuard](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=SkiGuard&theme=gotham&border_radius=6)](https://github.com/alvi-codes/SkiGuard)
+[![MazeMaster](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=MazeMaster&theme=gotham&border_radius=6)](https://github.com/alvi-codes/MazeMaster)  
