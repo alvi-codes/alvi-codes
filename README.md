@@ -14,3 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvi-codes&theme=gruvbox_light_border=true&include_all_commits=true&count_private=false&layout=compact&exclude_repo=FlappyGA,MazeMaster&langs_count=10)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvi-codes&theme=gruvbox_dark&border_color=black&include_all_commits=true&count_private=false&layout=compact&exclude_repo=FlappyGA,MazeMaster&langs_count=10)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvi-codes&theme=github)
