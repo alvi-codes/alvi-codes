@@ -9,11 +9,10 @@
 ### 📌 Featured Repositories  
 
 [![ExecEngine](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=ExecEngine&theme=gotham)](https://github.com/alvi-codes/ExecEngine)
-[![FlappyGA](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=FlappyGA&theme=gotham)](https://github.com/alvi-codes/FlappyGA)  
-
 [![TrigoCore](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=TrigoCore&theme=gotham)](https://github.com/alvi-codes/TrigoCore)  
-[![SkiGuard](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=SkiGuard&theme=gotham)](https://github.com/alvi-codes/SkiGuard)
 
 [![RiskyCPU](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=RiskyCPU&theme=gotham)](https://github.com/alvi-codes/RiskyCPU)
-[![MazeMaster](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=MazeMaster&theme=gotham)](https://github.com/alvi-codes/MazeMaster)  
+[![FlappyGA](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=FlappyGA&theme=gotham)](https://github.com/alvi-codes/FlappyGA)  
 
+[![SkiGuard](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=SkiGuard&theme=gotham)](https://github.com/alvi-codes/SkiGuard)
+[![MazeMaster](https://github-readme-stats.vercel.app/api/pin/?username=alvi-codes&repo=MazeMaster&theme=gotham)](https://github.com/alvi-codes/MazeMaster)  
